@@ -1,0 +1,227 @@
+*{
+	margin: 0;
+	border:0;
+	padding: 0;
+}
+
+header{
+	width: 100%;
+	height: 93px;
+	background: #ff6801;
+}
+
+a{
+	width: 130px;
+	height: 93px;
+	float: left;
+	line-height: 93px;
+	text-align: center;
+	text-decoration: none;
+	color:#fff;
+}
+
+
+.yi{
+	width: 1200px;
+	height: 93px;
+	margin: 0 auto;
+}
+
+nav{
+	height: 93px;
+	float: right;
+	margin-right: 300px;
+
+}
+
+header .yi img{
+	margin-top: 18px;
+	
+}
+
+.er{
+	width:100;
+	height:594px; 
+}
+
+.er img{
+	width: 100%;
+}
+
+
+.san a{
+	color: #ff6801;
+	width: 120px;
+	height: 39px;
+	display: block;
+	float: left;
+	text-align: center;
+	line-height: 39px;
+	margin:0 21px;
+	border: 2px solid #ff6801;
+	font-weight: 700;
+}
+
+.san{
+	width: 100%;
+	height: 900px;
+	text-align: center;
+}
+
+.san h1{
+	font-size: 45px;
+	margin: 66px 0 27px;
+	font-weight: 900;
+}
+
+.san p{
+	font-size: 25px;
+}
+
+.san nav{
+	height: 43px;
+	width: 1200px;
+	margin:62px auto 67px;
+	margin-right:110px;
+
+}
+
+.san img{
+	width: 100%;
+}
+
+.si{
+	width: 1168px;
+	height: 568px;
+	margin:0 auto;
+	text-align: center;
+	color:#ff6801;
+	font-size: 12px; 
+}
+
+
+.si h1{
+	margin: 38px 0 12px;
+	font-size: 22px;
+
+}
+
+.si dl{
+	float:left; 
+	height: 231px;
+	width: 292px;
+	text-align: center;
+	margin-top: 76px;
+	
+}
+
+
+
+.si dl dd:nth-of-type(1){
+	font-weight: bold;
+	margin:39px 0 29px;
+	font-size: 18px;
+	margin-bottom: 29px;
+}
+
+.si dl dd:nth-of-type(2){
+	font-size: 12px;
+}
+
+
+.liu{
+	width: 100%;
+	height: 672px;
+	background:#ff6801;
+	text-align: center;
+	color: #fff;
+
+}
+
+.liu h1{
+	font-size: 22px;
+	padding-top: 56px;
+
+}
+
+.liu p{
+	margin:12px 0 42px;
+	font-size: 12px;
+
+}
+
+.liu .qi{
+	width: 891px;
+	margin: 0 auto;
+
+}
+
+
+
+.liu .qi dl{
+	float: left;
+	margin: 0 31px;
+	width: 215px;
+	height: 470px;
+
+}
+
+
+.liu .qi dl.ba{
+	width: 275px;
+
+
+}
+
+.liu .qi dl dt{
+	width: 215px;
+	height: 320px;
+	overflow: hidden;
+	margin-top: 55px;
+}
+
+
+.liu .qi dl.ba dt{
+	width: 275px;
+	height: 375px;
+	margin-top: 0;
+}
+
+
+.liu .qi dl dt img{
+	height: 300px;
+	width: 100%;
+
+}
+
+
+.liu .qi dl.ba dt img{
+	height: 390px;
+	width: 100%;
+}
+
+
+.liu .qi dl dd:first-of-type{
+	margin:25px 0 9px;
+
+}
+
+footer{
+	width: 100%;
+	height: 110px;
+	color: #000;
+	background:#ff6801;
+	text-align: center;
+	line-height: 110px;
+	margin-top: 100px;
+
+}
+
+
+
+footer p{
+	font-size: 20px;
+}
+
+
+
